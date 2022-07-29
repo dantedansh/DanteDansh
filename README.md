@@ -81,5 +81,5 @@ int main(){
 <!-- GITHUB MARKDOWN -->
 * [x] Tarea 1
 * [x] Tarea 2
-* [] Tarea 3
+* [ ] Tarea 3
 * [x] Tarea 4
