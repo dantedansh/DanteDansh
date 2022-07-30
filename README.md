@@ -1,3 +1,3 @@
 # Hola, ¿que tal?
 
-<a <img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" width="40" height="40"/> </a>
+<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="cpp" width="40" height="40"/>
