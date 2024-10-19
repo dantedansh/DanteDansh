@@ -23,19 +23,11 @@
 
 ---
 
-<h2 style="color:#50fa7b; font-family:'Courier New', Courier, monospace;">🖤 Join the Cyberpunk Revolution</h2>
+<h2 style="color:#50fa7b; font-family:'Courier New', Courier, monospace;">🖤 Join</h2>
 
 <p align="center" style="color:#f1fa8c; font-family:'Courier New', Courier, monospace;">
   "The future is already here – it's just not very evenly distributed." <br>
   <strong>Feel free to reach out:</strong> 
   <a href="mailto:your-email@example.com" style="color:#ff79c6;">your-email@example.com</a> |
   <a href="https://linkedin.com/in/your-profile" style="color:#bd93f9;">LinkedIn</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.icons8.com/ios-filled/50/ff79c6/matrix.png" width="50" alt="Cyberpunk logo">  
-  <strong style="color:#50fa7b;">Let's create the future together.</strong>  
-  <img src="https://img.icons8.com/ios-filled/50/ff79c6/matrix.png" width="50" alt="Cyberpunk logo">
 </p>
