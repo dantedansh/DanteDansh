@@ -14,5 +14,5 @@
 
 <p align="center">
   <a href="https://github.com/dantedansh.github.io" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Cyberpunk_Project-ff5555?style=for-the-badge&logo=github&logoColor=white" alt="Sitio Web (Hacking)." style="border-radius: 12px;">
+    <img src="https://img.shields.io/badge/Sitio Web_(Hacking)_-ff5555?style=for-the-badge&logo=github&logoColor=white" alt="Sitio Web (Hacking)." style="border-radius: 12px;">
   </a>
