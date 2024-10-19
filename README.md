@@ -13,10 +13,6 @@
 <h2 style="color:#ffb86c; font-family:'Courier New', Courier, monospace;">💾 Projects:</h2>
 
 <p align="center">
-  <a href="https://github.com/your-repo" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Cyberpunk_Project-ff5555?style=for-the-badge&logo=github&logoColor=white" alt="Cyberpunk Project" style="border-radius: 12px;">
+  <a href="https://github.com/dantedansh.github.io" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Cyberpunk_Project-ff5555?style=for-the-badge&logo=github&logoColor=white" alt="Sitio Web (Hacking)." style="border-radius: 12px;">
   </a>
-  <a href="https://github.com/another-repo" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Another_Repo-50fa7b?style=for-the-badge&logo=github&logoColor=white" alt="Another Repo" style="border-radius: 12px;">
-  </a>
-</p>
