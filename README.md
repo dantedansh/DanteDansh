@@ -1,15 +1,3 @@
-<h1 align="center" style="color:#ff79c6; font-family:'Courier New', Courier, monospace;">
-  <img src="https://img.icons8.com/ios-filled/50/ff79c6/matrix.png" width="50" alt="Cyberpunk logo">  
-  Welcome to My Cyberpunk Universe  
-  <img src="https://img.icons8.com/ios-filled/50/ff79c6/matrix.png" width="50" alt="Cyberpunk logo">
-</h1>
-
-<p align="center" style="color:#8be9fd; font-family:'Courier New', Courier, monospace;">
-  A world of futuristic hacking and coding <br>
-  <strong>Explore. Learn. Hack. Create.</strong>
-</p>
-
----
 
 <h2 style="color:#bd93f9; font-family:'Courier New', Courier, monospace;">🚀 Languages & Tools I Use:</h2>
 
