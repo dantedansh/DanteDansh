@@ -1,10 +1,14 @@
-# Welcome to my Github, I'm a CTF player :D
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2EF754&repeat=false&width=550&lines=%3E+Welcome+to+my+Github%2C+I'm+a+CTF+player+%F0%9F%98%BC)](https://git.io/typing-svg)
+
+---
 
 <img src="https://media.tenor.com/Y0goYxQv6FkAAAAi/goku-dance.gif" alt="Goku Dance" width="200"/>
 
 <br>
 
-## 🛠 Languages and Tools:
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6C7BF7&repeat=false&width=550&lines=%F0%9F%9B%A0+Languages+and+Tools%3A)](https://git.io/typing-svg)
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
