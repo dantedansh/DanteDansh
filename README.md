@@ -2,12 +2,6 @@
 
 ---
 
-<img src="https://media.tenor.com/Y0goYxQv6FkAAAAi/goku-dance.gif" alt="Goku Dance" width="200"/>
-
-<br>
-
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=6C7BF7&repeat=false&width=550&lines=%F0%9F%9B%A0+Languages+and+Tools%3A)](https://git.io/typing-svg)
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
