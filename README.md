@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=30&duration=2000&pause=2000&color=F700FF&width=550&lines=>+DanNullty+Github;+;Loading+system...)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=30&duration=2000&pause=2000&color=F700FF&width=550&lines=>+DanNulty+Github;+;Loading+system...)]()
 
 ---
 
